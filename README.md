@@ -1,4 +1,4 @@
-R code for the paper Gu, Y., Geng, Z., Zhan, T., Henner, W., Wang, L., & Pulkstenis, E. (2026). Accelerating medicines to patients: A Bayesian quantitative evidence-based decision-making framework with interim monitoring. Contemporary Clinical Trials, 108291.
+R code for the paper "Accelerating medicines to patients: A Bayesian quantitative evidence-based decision-making framework with interim monitoring".
 
 https://www.sciencedirect.com/science/article/abs/pii/S1551714426000777
 
